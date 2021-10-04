@@ -1,0 +1,6 @@
+Package: HelloDebianWorld
+Version: 1.0
+Architecture: amd64
+Maintainer: Georgy Moiseev <moiseev.georgii@gmail.com>
+Description: A program that greets you.
+ Yeah, that's all.
